@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="https://arajaiyan.github.io/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>"https://arajaiyan.github.io/</loc>
+    <lastmod>2026-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    
+    <!-- عکس پروفایل -->
+    <image:image>
+      <image:loc>"https://arajaiyan.github.io/assets/img/profile.jpg</image:loc>
+      <image:title>Abolfazl Rajaiyan - ابوالفضل رجائیان</image:title>
+      <image:caption>Abolfazl Rajaiyan (ابوالفضل رجائیان) - PhD Candidate in Electrical Engineering at Sharif University</image:caption>
+    </image:image>
+    
+    <image:image>
+      <image:loc>"https://arajaiyan.github.io/assets/img/profile1.jpg</image:loc>
+      <image:title>Abolfazl Rajaiyan - ابوالفضل رجائیان - Researcher</image:title>
+      <image:caption>Abolfazl Rajaiyan - Researcher in Electrical Engineering</image:caption>
+    </image:image>
+    
+    <!-- عکس‌های گالری -->
+    <image:image>
+      <image:loc>"https://arajaiyan.github.io/assets/img/gallery1.jpg</image:loc>
+      <image:title>Abolfazl Rajaiyan - ابوالفضل رجائیان - Research Photo 1</image:title>
+    </image:image>
+    
+    <image:image>
+      <image:loc>"https://arajaiyan.github.io/assets/img/gallery2.jpg</image:loc>
+      <image:title>Abolfazl Rajaiyan - ابوالفضل رجائیان - Research Photo 2</image:title>
+    </image:image>
+    
+    <image:image>
+      <image:loc>"https://arajaiyan.github.io/assets/img/gallery3.jpg</image:loc>
+      <image:title>Abolfazl Rajaiyan - ابوالفضل رجائیان - Research Photo 3</image:title>
+    </image:image>
+    
+    <image:image>
+      <image:loc>"https://arajaiyan.github.io/assets/img/gallery4.jpg</image:loc>
+      <image:title>Abolfazl Rajaiyan - ابوالفضل رجائیان - Research Photo 4</image:title>
+    </image:image>
+    
+    <image:image>
+      <image:loc>"https://arajaiyan.github.io/assets/img/gallery5.jpg</image:loc>
+      <image:title>Abolfazl Rajaiyan - ابوالفضل رجائیان - Research Photo 5</image:title>
+    </image:image>
+    
+    <image:image>
+      <image:loc>"https://arajaiyan.github.io/assets/img/gallery6.jpg</image:loc>
+      <image:title>Abolfazl Rajaiyan - ابوالفضل رجائیان - Research Photo 6</image:title>
+    </image:image>
+    
+    <image:image>
+      <image:loc>"https://arajaiyan.github.io/assets/img/gallery7.jpg</image:loc>
+      <image:title>Abolfazl Rajaiyan - ابوالفضل رجائیان - Research Photo 7</image:title>
+    </image:image>
+    
+    <image:image>
+      <image:loc>"https://arajaiyan.github.io/assets/img/gallery8.jpg</image:loc>
+      <image:title>Abolfazl Rajaiyan - ابوالفضل رجائیان - Research Photo 8</image:title>
+    </image:image>
+    
+    <image:image>
+      <image:loc>"https://arajaiyan.github.io/assets/img/gallery9.jpg</image:loc>
+      <image:title>Abolfazl Rajaiyan - ابوالفضل رجائیان - Research Photo 9</image:title>
+    </image:image>
+    
+    <image:image>
+      <image:loc>"https://arajaiyan.github.io/assets/img/gallery10.jpg</image:loc>
+      <image:title>Abolfazl Rajaiyan - ابوالفضل رجائیان - Research Photo 10</image:title>
+    </image:image>
+    
+    <!-- عکس اساتید -->
+    <image:image>
+      <image:loc>"https://arajaiyan.github.io/assets/img/atarodi.jpg</image:loc>
+      <image:title>Dr. Seyed Mehdi Atarodi - Supervisor of Abolfazl Rajaiyan</image:title>
+    </image:image>
+    
+    <image:image>
+      <image:loc>"https://arajaiyan.github.io/assets/img/saberi.jpg</image:loc>
+      <image:title>Dr. Mehdi Saberi - Supervisor of Abolfazl Rajaiyan</image:title>
+    </image:image>
+    
+    <image:image>
+      <image:loc>"https://arajaiyan.github.io/assets/img/sobati.jpg</image:loc>
+      <image:title>Dr. Somayeh Sobati-Moghadam - Supervisor of Abolfazl Rajaiyan</image:title>
+    </image:image>
+  </url>
+</urlset>

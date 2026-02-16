@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+Sitemap: "https://arajaiyan.github.io/itemap.xml
+
+# Allow all search engines to crawl everything
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+# برای ایندکس بهتر عکس‌ها
+User-agent: Googlebot-Image
+Disallow:
